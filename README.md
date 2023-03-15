@@ -5,6 +5,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyoodong%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=gumtree.svg&icon_color=%23FFFFFF&title=lyoodng%27s&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-007396.svg?&style=for-the-badge&logo=Java&logoColor=#F05138"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyoodong)](https://solved.ac/lyoodong/)
+ 
+
+
 
 
