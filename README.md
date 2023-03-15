@@ -2,7 +2,7 @@
 
 ## ⛬ History 
 
-  <div align=center>
+  <div align=left>
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~)</sub></li>
   <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 3기 iOS 파트 <sub>(2022.09 ~ 2023.02)     </sub></li>
@@ -11,11 +11,11 @@
 
   <br><br>
   
-  <div align=left>
+
 
 [![lyoodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyoodong&show_icons=true&theme=swift&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
   
-   <div align=left>
+  <br><br>
 
 [![Solved.ac
 lyoodong](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
