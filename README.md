@@ -2,7 +2,7 @@
 
 ## ⛬ History 
 
-  <div align=left>
+  <div align=center>
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~)</sub></li>
   <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 3기 iOS 파트 <sub>(2022.09 ~ 2023.02)     </sub></li>
