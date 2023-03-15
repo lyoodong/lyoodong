@@ -9,9 +9,9 @@
   <li>단짝 찾기 서비스 어플리케이션 <a href="https://github.com/UMC-WOWMATE/WOWMATE-iOS">WOWMATE</a> iOS,PM_ 담당 <sub>(2023.01 ~)</sub></li>
   
 <br><br>
-  [![lyoodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyoodong&show_icons=true&theme=swift&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![lyoodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyoodong&show_icons=true&theme=swift&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
   
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lyoodong)](https://solved.ac/lyoodong)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lyoodong)](https://solved.ac/lyoodong)
  
 
 
