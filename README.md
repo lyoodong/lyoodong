@@ -18,7 +18,7 @@
   <br><br>
 
 [![Solved.ac
-lyoodong](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+lyoodong](http://mazassumnida.wtf/api/mini/generate_badge?boj=lyoodong)](https://solved.ac/lyoodong)
  
 
 
