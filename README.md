@@ -4,11 +4,12 @@ I'm an iOS developer passionate about building high-quality Swift apps in Ai, me
 
 ## 💼 Work Experience
 **Daglo** — Korea’s No.1 AI Speech-to-Text Service(2023/12~2024/12) 
-- Migrated the React Native app to native iOS  
-- Built MVVM architecture for scalable structure  
-- Handled reactive, async processes with RxSwift  
+- Migrated the React Native app to native iOS
+- Implemented recording & audio/video playback using AVFoundation  
+- Built a scalable iOS architecture using UIKit and MVVM
+- Handled reactive, async processes with RxSwift, RxMoya  
 - Automated CI/CD with Fastlane
-- Implemented recording & audio/video playback using AVFoundation
+- Automated app internationalization with Python scripts
 
 ## 🚀 Projects
 - **dokgi** — CSAT reading archive app with year & domain filters for fast study access (2025/10~)
