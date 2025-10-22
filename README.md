@@ -33,4 +33,4 @@ I'm an iOS developer passionate about building high-quality Swift apps in Ai, me
 - Mar 2015 – Dec 2018
 
 ## 📫 Contact
-- Email: dongwan@example.com
+- Email: lyoodong@naver.com
