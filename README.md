@@ -12,9 +12,16 @@ I'm an iOS developer passionate about building high-quality Swift apps in Ai, me
 - Automated app internationalization with Python scripts
 
 ## 🚀 Projects
-- **dokgi** — CSAT reading archive app with year & domain filters for fast study access (2025/10~)
-- **Film Grain** — AI Vintage photo editor with CoreML and Core Image (2025/8~)
-- **dction** — On-device real-time STT service powered by CoreML (2023/11~)
+- **dokgi** — CSAT reading archive app with year & domain filters for fast study access (2025/10~)  
+  _SwiftUI • Swift Concurrency • UIKit (used selectively for AdMob integration)_
+
+- **Film Grain** — AI vintage photo editor with CoreML and Core Image (2025/08~)  
+  _SwiftUI • Swift Concurrency • MVI_
+
+- **diction** — On-device real-time STT service powered by CoreML (2023/11~)  
+  _UIKit • RxSwift • MVVM_
+
+
 
 ## 🎓 Education
 **Hongik University** — B.S. in Computer Engineering  
