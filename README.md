@@ -5,7 +5,7 @@ I'm an iOS developer passionate about building high-quality Swift apps in Ai, me
 ## 💼 Work Experience
 **2023.12.06 ~ 2024.12.31(1 yr 1 mo)**   
 
-**Daglo** — Korea’s No.1 AI Speech-to-Text Service
+**Daglo(Action Power)** — Korea’s No.1 AI Speech-to-Text Service
 - Migrated the React Native app to `native iOS`
 - develoy recording and audio/video playback using `AVFoundation`  
 - Built a scalable iOS architecture using `UIKit` and `MVVM`
