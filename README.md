@@ -29,8 +29,5 @@ I'm an iOS developer passionate about building high-quality Swift apps in Ai, me
 **Hongik University** — B.S. in Computer Engineering  
 - Mar 2019 – Aug 2024  
 
-**Korea National Sport University** — B.S. in Exercise & Health Management (Dropped out)  
-- Mar 2015 – Dec 2018
-
 ## 📫 Contact
 - Email: lyoodong@naver.com
